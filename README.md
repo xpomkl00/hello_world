@@ -1,2 +1,6 @@
 # hello_world
-It is just a try.
+
+
+Im the best drummer in the world.
+
+Lets smash it down!
